@@ -1,5 +1,5 @@
-def reverse_each_word("Hey Bogo!")
+def reverse_each_word(sentence1)
   
   
-  return sentence1.reverse
+
 end 
