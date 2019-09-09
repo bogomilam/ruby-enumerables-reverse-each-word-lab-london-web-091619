@@ -17,5 +17,5 @@ reversed_array = [ ]
   reversed_array << string.reverse 
   end
 
-return reversed_array
+return reversed_array.join(" ")
 end
