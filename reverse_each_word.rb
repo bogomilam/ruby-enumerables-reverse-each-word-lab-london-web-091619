@@ -3,6 +3,6 @@ def reverse_each_word(string)
   i = string.length - 1 
   
     while i >= 0 do
-      reversed_string
+      reversed_string += 
 
 end 
