@@ -4,5 +4,5 @@ new_array = [ ]
 
 array.each do |string| 
 
-new_array << array
+new_array << string.reverse
 end 
