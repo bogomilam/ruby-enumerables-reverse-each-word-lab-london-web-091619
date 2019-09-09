@@ -6,5 +6,5 @@ new_array = [ ]
 
   new_array << string.reverse 
   end
-return new_array
+return new_array.join 
 end 
